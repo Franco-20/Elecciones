@@ -4,7 +4,7 @@ class usuario extends Component {
   render() {
     return (
       <div className="container">
-        <div className="col-sm-6 col-md-12 col-lg-12 d-flex justify-content-center mt-4">
+        <div className="col-sm-6 col-md-12 col-lg-12 d-flex justify-content-center mt-5">
           <Card style={{ width: "18rem" }} classNameç="card">
             <Card.Body>
               <Card.Title className="text-center title">Bienvenido</Card.Title>
