@@ -6,8 +6,8 @@ class login extends Component {
   render() {
     return (
       <div className="container">
-          <div className="col-sm-6 col-md-12 col-lg-12 d-flex justify-content-center mt-5">
-              <Card style={{ width: "18rem" }} className="card">
+          <div className="col-sm-6 col-md-12 col-lg-12 d-flex justify-content-center ">
+              <Card style={{ width: "18rem" }} className="card2">
           <Card.Body>
             <h3 className="text-center title">Iniciar Sesion</h3>
             <div className="col-sm-6 col-md-12 col-lg-12 d-flex justify-content-center">
