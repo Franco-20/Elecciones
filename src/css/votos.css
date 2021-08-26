@@ -1,6 +1,7 @@
 .card3{
     margin-top: 20px !important;
     height: 33rem;
+    border-radius: 30px 30px 30px 30px;
 }
 p{
     margin: 5px !important;
